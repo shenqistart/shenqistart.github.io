@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>code shown</title>
+  
+  <subtitle>Thought shown as code</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shenqistart.github.io/"/>
+  <updated>2018-09-03T09:49:36.886Z</updated>
+  <id>https://shenqistart.github.io/</id>
+  
+  <author>
+    <name>shenqistart</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简易redux教学</title>
+    <link href="https://shenqistart.github.io/2018/09/03/%E7%AE%80%E6%98%93redux%E6%95%99%E5%AD%A6/"/>
+    <id>https://shenqistart.github.io/2018/09/03/简易redux教学/</id>
+    <published>2018-09-03T09:46:45.000Z</published>
+    <updated>2018-09-03T09:49:36.886Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;轻松使用redux&quot;&gt;&lt;a href=&quot;#轻松使用redux&quot; class=&quot;headerlink&quot; title=&quot;轻松使用redux&quot;&gt;&lt;/a&gt;轻松使用redux&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt; 简介：本篇博客主要总结了自己在使用redux中的书写方法
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>掌握一门技术</title>
+    <link href="https://shenqistart.github.io/2018/09/03/%E6%8E%8C%E6%8F%A1%E4%B8%80%E9%97%A8%E6%8A%80%E6%9C%AF/"/>
+    <id>https://shenqistart.github.io/2018/09/03/掌握一门技术/</id>
+    <published>2018-09-03T09:44:43.000Z</published>
+    <updated>2018-09-03T09:44:43.546Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://shenqistart.github.io/2018/09/03/hello-world/"/>
+    <id>https://shenqistart.github.io/2018/09/03/hello-world/</id>
+    <published>2018-09-03T08:36:21.185Z</published>
+    <updated>2018-09-03T08:36:21.186Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
